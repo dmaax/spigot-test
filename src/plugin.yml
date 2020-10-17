@@ -1,0 +1,7 @@
+name: Inicial
+main: me.dmax.inicial.Main
+author: Dudumaax
+description: Plugin inicial
+version: 0.1
+commands:
+  
